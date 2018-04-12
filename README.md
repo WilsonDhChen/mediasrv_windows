@@ -1,4 +1,4 @@
-﻿# ETS Mediasrv
+﻿# lyVTS Mediasrv
 
 ETS Mediasrv which is an excellent cross-platform Live Streaming Server, developed by f117cdh.
 
