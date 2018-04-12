@@ -1,0 +1,1 @@
+mediasrv-service.exe -del
