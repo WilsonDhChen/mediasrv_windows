@@ -18,6 +18,6 @@ for detail goto  https://github.com/WilsonDhChen/mediasrv_linux
 
 # Windows版本免费,功能和Linux一样，性能一样
 
-**欢迎大家提出建议 QQ群:144324691**
+**欢迎大家提出建议 QQ群:777901741**
 
 
